@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F189BCC2A236A1D00A703B0 /* SavedTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F189BCB2A236A1D00A703B0 /* SavedTableViewCell.swift */; };
 		2F6AF4072A11766A00E37E29 /* SDWebImage in Frameworks */ = {isa = PBXBuildFile; productRef = 2F6AF4062A11766A00E37E29 /* SDWebImage */; };
 		2FFC16C72A1153310072A39D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FFC16C62A1153310072A39D /* AppDelegate.swift */; };
 		2FFC16C92A1153310072A39D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FFC16C82A1153310072A39D /* SceneDelegate.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2F189BCB2A236A1D00A703B0 /* SavedTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedTableViewCell.swift; sourceTree = "<group>"; };
 		2FFC16C32A1153310072A39D /* NewsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FFC16C62A1153310072A39D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2FFC16C82A1153310072A39D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				2FFC16EB2A1159A20072A39D /* NewsTableViewCell.swift */,
 				2FFC16ED2A115D090072A39D /* DetailViewController.swift */,
 				2FFC16EF2A115D590072A39D /* WebViewController.swift */,
+				2F189BCB2A236A1D00A703B0 /* SavedTableViewCell.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -223,6 +226,7 @@
 				2FFC16CB2A1153310072A39D /* NewsFeedViewController.swift in Sources */,
 				2FFC16C72A1153310072A39D /* AppDelegate.swift in Sources */,
 				2FFC16EA2A11597B0072A39D /* SavedTableViewController.swift in Sources */,
+				2F189BCC2A236A1D00A703B0 /* SavedTableViewCell.swift in Sources */,
 				2FFC16E32A11538B0072A39D /* NetworkManager.swift in Sources */,
 				2FFC16E82A11555C0072A39D /* AlertController.swift in Sources */,
 				2FFC16D12A1153310072A39D /* NewsApp.xcdatamodeld in Sources */,
